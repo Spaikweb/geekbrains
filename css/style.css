@@ -51,6 +51,15 @@ body {
     margin: 0;
 }
 
-.header__navigation {
-    position: absolute;
+.man__jacket {
+    width: 800;
+    height: 756px;
+}
+
+.cover {
+    display: flex;
+}
+
+.title__cover-up {
+    align-items: center;
 }
